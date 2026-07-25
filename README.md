@@ -1,15 +1,22 @@
-# 🚚 Rota Entregas
+# 🚚 API de Otimização de Rotas de Entrega
 
-Sistema de otimização de rotas de entrega.
+Sistema para gerenciar entregas e entregadores, com cálculo automático de tempo estimado de rota usando a API TomTom.
 
-## 👥 Time
-- Matheus Cardoso
-- 
+## 📋 Tecnologias Utilizadas
 
-## 🛠 Tecnologias
-- Java + Spring Boot
-- PostgreSQL + PostGIS
-- OSRM (motor de rotas)
-- Docker
+- Java 21
+- Spring Boot 
+- Spring Data JPA
+- PostgreSQL (via Docker)
+- TomTom Routing API
+- Swagger / OpenAPI
+- Maven
 
-## 🚀 Como executar (em breve)
+## ⚙️ Pré-requisitos
+
+- Docker Desktop (para o banco de dados)
+- JDK 21
+- IntelliJ IDEA
+- Postman (para testes)
+
+
