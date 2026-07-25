@@ -2,6 +2,11 @@
 
 Sistema para gerenciar entregas e entregadores, com cálculo automático de tempo estimado de rota usando a API TomTom.
 
+## 👥 Autores
+
+- Matheus Cardoso – [GitHub](https://github.com/DevCardoso1910)
+- Gustavo Britto – [GitHub](https://github.com/gutav041)
+
 ## 📋 Tecnologias Utilizadas
 
 - Java 21
