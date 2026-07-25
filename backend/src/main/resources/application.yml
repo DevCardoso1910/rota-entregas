@@ -1,0 +1,23 @@
+
+tomtom:
+  api-key: "S1EeUS8X76aJ06C7X4eUtIRdw2kItZgE"
+
+spring:
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/rotaentregas
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+server:
+  port: 8080
