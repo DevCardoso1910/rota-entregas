@@ -5,7 +5,7 @@ Sistema para gerenciar entregas e entregadores, com cálculo automático de temp
 ## 👥 Autores
 
 - Matheus Cardoso – [GitHub](https://github.com/DevCardoso1910)
-- Gustavo Britto – [GitHub](https://github.com/gutav041)
+- Gustavo Britto – [GitHub](https://github.com/gustav041)
 
 ## 📋 Tecnologias Utilizadas
 
